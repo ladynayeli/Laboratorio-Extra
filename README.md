@@ -26,7 +26,7 @@ Conocer los conceptos de los teoremas de Thevenin y Superposición, en los que s
 
 ![image](https://user-images.githubusercontent.com/105687213/184734231-5eed4454-88ec-4db0-9166-7611d8ed31fb.png)
 
-4.- Desarrollo de circuitos
+4.- Desarrollo de los circuitos
 
 • Circuito 1
 
@@ -116,4 +116,17 @@ RTH= 5 ohm
 ![image](https://user-images.githubusercontent.com/105687213/184795101-57ae922a-3f61-4054-a6c7-6614f939651e.png)
 
 
+5.- Videos
 
+
+6.- Conclusiones
+
+• Se concluye que  mediante la aplcacion del teorema Thevenin, se puede obsej que la resistencia de Thevenin se obtiene al remplazar la fuentes de volvtaje por un rcicuito cerrado y las fuentes de corrientes por circuitos abiertos y para calcular  la resistencia se pone en corto  lo cual permitira obtener una sola resistencia que sera equivalente a la resistencia total.
+
+• Adicionaal en un circuito que presenrta dos o mas fuente de voltaje,  se recomienda aplica el teorema de superposicion, lo cual siguen una serie de pasos para obtener los datos desconocidos como l es el caso de la corriente a traves de una resistencia especifica.
+
+ • Finalmente para obtenr el voltaje de Thevenn, se debe poner en corto la resistencia que  se va a caular y mediante ls diferentes metodo como: malla, ramas y nodos, se obtendria el valor de  el voltaje equivalente.
+
+7.- Bibliogrta
+
+Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.
