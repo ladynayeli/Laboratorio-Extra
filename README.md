@@ -30,19 +30,38 @@ Conocer los conceptos de los teoremas de Thevenin y Superposición, en los que s
 
 • Circuito 1
 
-![image](https://user-images.githubusercontent.com/105687213/184772932-92ac76ba-f805-43dc-ad3a-5f972f298adf.png)
+![image](https://user-images.githubusercontent.com/105687213/184781705-0f16fbc0-b971-4ae1-a868-58b71ba404c4.png)
 
 -Armamos el circuito  en tinkercad 
 
 ![image](https://user-images.githubusercontent.com/105687213/184780599-46f79b6e-1f7a-4d1f-804f-516fbb399937.png)
 
--Una vez armado el circuito con un multimetr, medimos la corriente entre la resistencia de 2 y 12 ohm.
+-Una vez armado el circuito con un multimetr, medimos la corriente que pasa  por la  resistencia 12 ohm cuando estan conectadas las dos fuentes de voltaje
 
-![image](https://user-images.githubusercontent.com/105687213/184781074-fb3dc13b-d53d-4b66-ab19-6f81d114c703.png)
+![image](https://user-images.githubusercontent.com/105687213/184783274-61d1b2b3-477e-4773-90bd-ab38ab1dc02e.png)
 
--Desconectamos la fuente de voltaje de 16 v y procedemos a medir la corriente entre la resistencia de 2 y 12 ohm.
-![image](https://user-images.githubusercontent.com/105687213/184780888-6a3c27df-3776-47cf-a301-a4f506f0fecd.png)
 
+-Desconectamos la fuente de voltaje de 16 v y procedemos a medir la corriente  que pasa por la ressitencia 12 ohm y el voltaje.
+
+![image](https://user-images.githubusercontent.com/105687213/184783128-9c29f034-3b77-4b43-99ac-4cb55d6deef3.png)
+
+-Ahora desconectamos la otra fuente de voltaje de 10 vy procedemos a medir la corriente que pasa por la resistencia de 12 ohm y el voltaje.
+
+![image](https://user-images.githubusercontent.com/105687213/184782893-e31464e3-56b1-41e6-a6ec-b370cf7905b9.png)
+
+calculos
+
+I= I1-I2
+
+I=500-400
+
+I=100
+
+V= V1+V2
+
+V=6-4.80
+
+V=1.20V
 
 • Circuito 2
 
