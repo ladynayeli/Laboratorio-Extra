@@ -95,3 +95,25 @@ P= 3.78*8.32 = 31.44 mW
 ![image](https://user-images.githubusercontent.com/105687213/184790860-7e32090f-0e45-4b8f-9dc5-a7f250648295.png)
 
 • Circuito 3
+
+![image](https://user-images.githubusercontent.com/105687213/184791363-38d0b086-ef01-47d8-b9e4-c5f657a56393.png)
+
+-Armamos el circuito completo
+
+![image](https://user-images.githubusercontent.com/105687213/184792136-28da617b-9639-468d-9fa7-adf1b1fe3c1e.png)
+
+-Medimos la corriente entre la R3 Y 34
+
+![image](https://user-images.githubusercontent.com/105687213/184793266-4ed32ca7-aaff-4899-8476-035613e44de2.png)
+
+![image](https://user-images.githubusercontent.com/105687213/184793471-8002b2d7-e3d3-4e37-b50b-b67a74009478.png)
+VTH =10 V
+
+![image](https://user-images.githubusercontent.com/105687213/184793694-d13ed0f1-f469-408d-8b60-41da47b2f75f.png)
+RTH= 5 ohm
+
+-Obtenemos el cuircuito equivalene de Thevenin
+![image](https://user-images.githubusercontent.com/105687213/184795101-57ae922a-3f61-4054-a6c7-6614f939651e.png)
+
+
+
