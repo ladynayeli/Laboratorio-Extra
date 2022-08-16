@@ -43,11 +43,11 @@ Conocer los conceptos de los teoremas de Thevenin y Superposición, en los que s
 
 -Desconectamos la fuente de voltaje de 16 v y procedemos a medir la corriente  que pasa por la ressitencia 12 ohm y el voltaje.
 
-![image](https://user-images.githubusercontent.com/105687213/184783128-9c29f034-3b77-4b43-99ac-4cb55d6deef3.png)
+![image](https://user-images.githubusercontent.com/105687213/184783641-9110d40f-496c-4f4b-819c-b93c8e05fefb.png)
 
 -Ahora desconectamos la otra fuente de voltaje de 10 vy procedemos a medir la corriente que pasa por la resistencia de 12 ohm y el voltaje.
 
-![image](https://user-images.githubusercontent.com/105687213/184782893-e31464e3-56b1-41e6-a6ec-b370cf7905b9.png)
+![image](https://user-images.githubusercontent.com/105687213/184783834-aeed8996-8a6a-4e52-9f14-e102e78d0d85.png)
 
 calculos
 
@@ -65,5 +65,33 @@ V=1.20V
 
 • Circuito 2
 
+![image](https://user-images.githubusercontent.com/105687213/184783895-7bca7ce9-56f3-42dd-9cd0-3029008ecc5a.png)
+
+-Armamos el circuito completo en tinkercad
+
+![image](https://user-images.githubusercontent.com/105687213/184785132-5076bb20-14e3-479b-968c-237b8a3614bc.png)
+
+-Retiramos la resistencia de  2.2 , y medimos el voltaje y obtener es el VTH
+
+![image](https://user-images.githubusercontent.com/105687213/184785551-797a3d71-7103-494c-85eb-d31b1f3831c9.png)
+
+VTH= 8.32 V
+
+-Desconectamos las dos fuentes de voltaje , retirams la resistencia 2.2 y medidos obtniedo la RTH.
+
+![image](https://user-images.githubusercontent.com/105687213/184785832-b209e1d9-16bb-4237-a089-d686e42484ad.png)
+
+RTH= 4.70
+
+-Utilizamos el potenciometro obteniendo un circuit de Thevenin
+
+![image](https://user-images.githubusercontent.com/105687213/184787107-81fb604b-0db3-43b1-9f4a-13f012b27b7a.png)
+
+-Usamos  DCACLab para medir la potencia
+
+P= I*V
+P= 3.78*8.32 = 31.44 mW
+
+![image](https://user-images.githubusercontent.com/105687213/184790860-7e32090f-0e45-4b8f-9dc5-a7f250648295.png)
 
 • Circuito 3
