@@ -118,6 +118,7 @@ RTH= 5 ohm
 
 5.- Videos
 
+https://www.youtube.com/watch?v=RMkkme8a0Ec&t=120s
 
 6.- Conclusiones
 
