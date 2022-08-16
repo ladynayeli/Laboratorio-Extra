@@ -30,6 +30,19 @@ Conocer los conceptos de los teoremas de Thevenin y Superposición, en los que s
 
 • Circuito 1
 
+![image](https://user-images.githubusercontent.com/105687213/184772932-92ac76ba-f805-43dc-ad3a-5f972f298adf.png)
+
+-Armamos el circuito  en tinkercad 
+
+![image](https://user-images.githubusercontent.com/105687213/184780599-46f79b6e-1f7a-4d1f-804f-516fbb399937.png)
+
+-Una vez armado el circuito con un multimetr, medimos la corriente entre la resistencia de 2 y 12 ohm.
+
+![image](https://user-images.githubusercontent.com/105687213/184781074-fb3dc13b-d53d-4b66-ab19-6f81d114c703.png)
+
+-Desconectamos la fuente de voltaje de 16 v y procedemos a medir la corriente entre la resistencia de 2 y 12 ohm.
+![image](https://user-images.githubusercontent.com/105687213/184780888-6a3c27df-3776-47cf-a301-a4f506f0fecd.png)
+
 
 • Circuito 2
 
